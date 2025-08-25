@@ -51,7 +51,13 @@ If there are aspects of this course that prevent you from learning or exclude yo
 
 ### Academic integrity statement
 
-TBD
+The Undergraduate Honor Code pledge that each member of the university community agrees to abide by states:
+
+"As a Hokie, I will conduct myself with honor and integrity at all times.  I will not lie, cheat, or steal, nor will I accept the actions of those who do."
+
+Students enrolled in this course are responsible for abiding by the Honor Code. A student who has doubts about how the Honor Code applies to any assignment is responsible for obtaining specific guidance from the course instructor before submitting the assignment for evaluation. Ignorance of the rules does not exclude any member of the University community from the requirements and expectations of the Honor Code.
+
+See  <a href="https://honorsystem.vt.edu/">additional information about the Honor Code</a>.
 
 ***
 
