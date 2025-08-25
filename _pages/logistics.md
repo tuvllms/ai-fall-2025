@@ -13,34 +13,19 @@ nav_order: 1
 
 ### Textbooks
 
-For NLP fundamentals, we recommend [Speech and Language Processing by Jurafsky and Martin](https://web.stanford.edu/~jurafsky/slp3/). Course readings will primarily include published research papers from top-tier ML venues (such as JMLR, ICML, NeurIPS, ICLR, COLM) and ACL$$^{*}$$ venues (such as TACL, ACL, EMNLP, NAACL), provided as PDFs.
-
-Additional useful NLP and deep learning texts include:
-
-- [Foundations of Statistical Natural Language Processing](https://mitpress.mit.edu/9780262133609/foundations-of-statistical-natural-language-processing/) by Manning and Schütze.
-- [Introduction to Natural Language Processing](https://mitpress.mit.edu/9780262042840/introduction-to-natural-language-processing/) by Eisenstein. [Draft](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
-- [Deep Learning](https://www.deeplearningbook.org/) by Goodfellow, Bengio, and Courville
-- [Dive into Deep Learning](https://d2l.ai/) by Zhang, Lipton, Li, and Smola.
+TBD
 
 ***
 
 ### Grading criteria
 
-The grading breakdown is as follows:
-
-- Quizzes (10%)
-- Homework assignments (50%)
-- Final project (40%)
-
-The top 10 Piazza contributors will earn 3.5%. Instructors will review contributions to ensure the system is not abused.
-
-*Note that this class does not have any exams.*
+TBD
 
 ***
 
 ### Late policy
 
-Each student is allowed <b>three</b> late days for homework submissions. Once these days are used, no additional late submissions will be accepted. If you encounter an unexpected health or personal emergency, please contact the instructors as soon as possible at <a href="mailto:cs5624instructors@gmail.com" target="_blank">cs5624instructors@gmail.com</a>, and provide valid documentation if needed. Late submissions due to job interviews, other coursework, or non-emergency situations will not be excused, and extensions will not be granted.
+TBD
 
 ***
 
@@ -64,28 +49,15 @@ If there are aspects of this course that prevent you from learning or exclude yo
 
 ***
 
-### Graduate academic integrity statement
+### Academic integrity statement
 
-The tenets of the Virginia Tech Graduate Honor Code will be strictly enforced in this course, and all assignments shall be subject to the stipulations of the Graduate Honor Code. For more information on the Graduate Honor Code, please refer to the <a href="https://graduateschool.vt.edu/academics/expectations/graduate-honor-system.html">GHS Constitution</a>.
+TBD
 
 ***
 
 ### Course/learning objectives
 
-By the end of this course, students will be able to explain key NLP principles and techniques for building state-of-the-art LLMs, including:
-
-- foundational concepts of language models
-- transformer models, such as BERT, and techniques for LLM pretraining and fine-tuning
-- strategies for LLM prompting and decoding
-- techniques for aligning LLMs with human instructions and preferences
-- evaluation methods
-- techniques for enhancing LLM efficiency and adaptability
-- advanced LLM concepts (e.g., advanced reasoning) and compound AI Systems (e.g., RAG, tool-use LLMs, agents)
-- techniques for developing multimodal and multilingual LLMs, code and math LLMs
-- techniques for ensuring LLM safety and security
-- alternatives to token-based models and transformers
-
-Students will gain practical expertise in designing, training, evaluating, and applying LLMs, preparing them to tackle real-world challenges and adapt LLMs to diverse tasks and contexts.
+TBD
 
 ***
 
