@@ -13,7 +13,14 @@ nav_order: 1
 
 ### Textbooks
 
-TBD
+For AI fundamentals, we recommend [Artificial Intelligence: A Modern Approach, 4th US ed. by Russell and Norvig](https://aima.cs.berkeley.edu). Course readings will primarily include published research papers, provided as PDFs.
+
+Additional useful deep learning and LLMs texts include:
+
+- [Deep Learning](https://www.deeplearningbook.org/) by Goodfellow, Bengio, and Courville
+- [Dive into Deep Learning](https://d2l.ai/) by Zhang, Lipton, Li, and Smola
+- [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) by Jurafsky and Martin
+- [Foundations of Large Language Models](https://arxiv.org/abs/2501.09223) by Xiao and Zhu
 
 ***
 
