@@ -13,7 +13,7 @@ nav_order: 1
 
 ### Textbooks
 
-For AI fundamentals, we recommend [Artificial Intelligence: A Modern Approach by Russell and Norvig](https://aima.cs.berkeley.edu). Course readings will primarily include published research papers, provided as PDFs.
+For AI fundamentals, we recommend [Artificial Intelligence: A Modern Approach](https://aima.cs.berkeley.edu) by Russell and Norvig. Course readings will primarily include published research papers, provided as PDFs.
 
 Additional useful deep learning and LLMs texts include:
 
