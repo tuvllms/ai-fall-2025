@@ -26,7 +26,11 @@ Additional useful deep learning and LLMs texts include:
 
 ### Grading criteria
 
-TBD
+The tentative grading breakdown is as follows:
+
+- Quizzes (10%)
+- Homework assignments (50%)
+- Final project (40%)
 
 ***
 
