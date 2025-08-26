@@ -9,56 +9,64 @@
 
 - date: 8/28
   lecturer:
-  title: 
+  title: >
+    <strong>Search and Problem Solving</strong>
   slides:
   readings:
   logistics:
 
 - date: 9/2
   lecturer:
-  title: 
+  title: >
+    <strong>Search and Problem Solving (cont.)</strong>
   slides:
   readings:
   logistics:
 
 - date: 9/4
   lecturer:
-  title: 
+  title: >
+    <strong>Logic and Knowledge Representation</strong>
   slides:
   readings:
   logistics:
 
 - date: 9/9
   lecturer:
-  title: 
+  title: >
+    <strong>Logic and Knowledge Representation (cont.)</strong>
   slides:
   readings:
   logistics:
 
 - date: 9/11
   lecturer:
-  title: 
+  title: >
+    <strong>Reasoning Under Uncertainty</strong>
   slides:
   readings:
   logistics:
 
 - date: 9/16
   lecturer:
-  title: 
+  title: >
+    <strong>Reasoning Under Uncertainty (cont.)</strong>
   slides:
   readings:
   logistics:
 
 - date: 9/18
   lecturer:
-  title: 
+  title: >
+    <strong>Fundamentals of Machine Learning</strong>
   slides:
   readings:
   logistics:
 
 - date: 9/23
   lecturer:
-  title: 
+  title: >
+    <strong>Neural Networks</strong>
   slides:
   readings:
   logistics:
@@ -68,63 +76,72 @@
 
 - date: 9/30
   lecturer:
-  title: 
+  title: >
+    <strong>Neural Networks (cont.)</strong>
   slides:
   readings:
   logistics:
 
 - date: 10/2
   lecturer:
-  title: 
+  title: >
+    <strong>Representation Learning</strong>
   slides:
   readings:
   logistics:
 
 - date: 10/7
   lecturer:
-  title: 
+  title: >
+    <strong>Transformers</strong>
   slides:
   readings:
   logistics:
 
 - date: 10/9
   lecturer:
-  title: 
+  title: >
+    <strong>Transformers (cont.)</strong>
   slides:
   readings:
   logistics:
 
 - date: 10/14
   lecturer:
-  title: 
+  title: >
+    <strong>Decoding algorithms</strong>
   slides:
   readings:
   logistics:
 
 - date: 10/16
   lecturer:
-  title: 
+  title: >
+    <strong>Pretraining & Scaling laws</strong>
   slides:
   readings:
   logistics:
 
 - date: 10/21
   lecturer:
-  title: 
+  title: >
+    <strong>Fine-tuning & Parameter-efficient fine-tuning</strong>
   slides:
   readings:
   logistics:
 
 - date: 10/23
-  lecturer:
-  title: 
+  lecturer: 
+  title: >
+    <strong>Prompting</strong>
   slides:
   readings:
   logistics:
 
 - date: 10/28
   lecturer:
-  title: 
+  title: >
+    <strong>Post-training</strong>
   slides:
   readings:
   logistics:
@@ -137,28 +154,32 @@
 
 - date: 11/11
   lecturer:
-  title: 
+  title: >
+    <strong>Post-training (cont.)</strong>
   slides:
   readings:
   logistics:
 
 - date: 11/13
   lecturer:
-  title: 
+  title: >
+    <strong>Test-time scaling</strong>
   slides:
   readings:
   logistics:
 
 - date: 11/18
   lecturer:
-  title: 
+  title: >
+    <strong>Evaluation</strong>
   slides:
   readings:
   logistics:
 
 - date: 11/20
-  lecturer:
-  title: 
+  lecturer: 
+  title: >
+    <strong>Retrieval-augmented generation</strong>
   slides:
   readings:
   logistics:
