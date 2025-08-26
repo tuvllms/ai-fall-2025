@@ -32,13 +32,13 @@ TBD
 
 ### Late policy
 
-TBD
+Each student is allowed three late days total across all homework submissions. Once these three days are used, no additional late submissions will be accepted. If you encounter an unexpected health or personal emergency, please contact the instructors as soon as possible at <a href="mailto:cs4804instructors@gmail.com" target="_blank">cs4804instructors@gmail.com</a>, and provide valid documentation if needed. Late submissions due to job interviews, other coursework, or non-emergency situations will not be excused, and extensions will not be granted.
 
 ***
 
 ### AI assistance policy
 
-AI assistance is permitted for completing assignments, including homework, quizzes, projects, and exams (if any). However, if you use AI tools like ChatGPT or Gemini, you must submit the prompts you used and describe how the AI contributed to your work. It is your responsibility to verify the AI-generated content for accuracy before submission.
+AI assistance is permitted for completing assignments, including homework, quizzes, projects, but not for exams (if any). However, if you use AI tools like ChatGPT or Gemini, you must submit the prompts you used and describe how the AI contributed to your work. It is your responsibility to verify the AI-generated content for accuracy before submission.
 
 ***
 
