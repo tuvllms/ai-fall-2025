@@ -155,7 +155,7 @@
 - date: 11/11
   lecturer:
   title: >
-    <strong>Post-training (cont.)</strong>
+    <strong>Test-time scaling</strong>
   slides:
   readings:
   logistics:
@@ -163,7 +163,7 @@
 - date: 11/13
   lecturer:
   title: >
-    <strong>Test-time scaling</strong>
+    <strong>Evaluation</strong>
   slides:
   readings:
   logistics:
@@ -171,7 +171,7 @@
 - date: 11/18
   lecturer:
   title: >
-    <strong>Evaluation</strong>
+    <strong>Retrieval-augmented generation</strong>
   slides:
   readings:
   logistics:
@@ -179,7 +179,7 @@
 - date: 11/20
   lecturer: 
   title: >
-    <strong>Retrieval-augmented generation</strong>
+    <strong>LLM Agents</strong>
   slides:
   readings:
   logistics:
@@ -192,21 +192,24 @@
 
 - date: 12/2
   lecturer:
-  title: 
+  title: >
+    <strong>Multimodal AI</strong>
   slides:
   readings:
   logistics:
 
 - date: 12/4
   lecturer:
-  title: 
+  title: >
+    <strong>Diffusion models</strong>
   slides:
   readings:
   logistics:
 
 - date: 12/9
   lecturer:
-  title: 
+  title: >
+    <strong>Ethics and safety</strong>
   slides:
   readings:
   logistics:
