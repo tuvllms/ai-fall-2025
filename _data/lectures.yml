@@ -8,11 +8,10 @@
 
 - date: 8/28
   lecturer:
-  title: >
-    <strong>Search and Problem Solving</strong>
+  title: <strong>Search and Problem Solving</strong>
   slides:
   readings:
-    - <a href="" target="_blank">Russell and Norvig, Chapter 2</a>
+    - <a>Russell and Norvig, Chapter 2</a>
   logistics:
 
 - date: 9/2
