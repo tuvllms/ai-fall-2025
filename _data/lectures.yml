@@ -4,7 +4,7 @@
     <strong>Introduction</strong>
   slides:
   readings:
-    - No associated readings
+    - <a href="" target="_blank">Russell and Norvig, Chapter 1</a>
   logistics:
 
 - date: 8/28
@@ -13,6 +13,7 @@
     <strong>Search and Problem Solving</strong>
   slides:
   readings:
+    - <a href="" target="_blank">Russell and Norvig, Chapter 2</a>
   logistics:
 
 - date: 9/2
