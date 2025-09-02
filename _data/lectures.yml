@@ -16,56 +16,52 @@
 
 - date: 9/2
   lecturer:
-  title: >
-    <strong>Search and Problem Solving</strong>
-  slides:
+  title: <strong>Neural networks</strong>
+  slides: 
   readings:
+    - <a href="https://web.stanford.edu/~jurafsky/slp3/7.pdf" target="_blank">Jurafsky and Martin, Chapter 7.1-7.4 and 7.6</a>
+    - Bengio et al. (2003) <a href="https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf" target="_blank">A Neural Probabilistic Language Model</a>
   logistics:
 
 - date: 9/4
   lecturer:
-  title: >
-    <strong>Logic and Knowledge Representation</strong>
-  slides:
+  title: <strong>Backpropagation</strong>
+  slides: 
   readings:
+    - <a href="https://web.stanford.edu/~jurafsky/slp3/7.pdf" target="_blank">Jurafsky and Martin, Chapter 7.5 and 7.7</a>
   logistics:
 
 - date: 9/9
   lecturer:
-  title: >
-    <strong>Logic and Knowledge Representation (cont.)</strong>
+  title: <strong>Word embeddings</strong>
   slides:
   readings:
   logistics:
 
 - date: 9/11
   lecturer:
-  title: >
-    <strong>Reasoning Under Uncertainty</strong>
+  title: <strong>Transformers</strong>
   slides:
   readings:
   logistics:
 
 - date: 9/16
   lecturer:
-  title: >
-    <strong>Reasoning Under Uncertainty (cont.)</strong>
+  title: <strong>Transformers (cont.)</strong>
   slides:
   readings:
   logistics:
 
 - date: 9/18
   lecturer:
-  title: >
-    <strong>Fundamentals of Machine Learning</strong>
+  title: <strong>Pretraining scaling</strong>
   slides:
   readings:
   logistics:
 
 - date: 9/23
   lecturer:
-  title: >
-    <strong>Neural Networks</strong>
+  title: <strong>Prompting</strong>
   slides:
   readings:
   logistics:
@@ -75,72 +71,63 @@
 
 - date: 9/30
   lecturer:
-  title: >
-    <strong>Neural Networks (cont.)</strong>
+  title: <strong>Decoding strategies</strong>
   slides:
   readings:
   logistics:
 
 - date: 10/2
   lecturer:
-  title: >
-    <strong>Representation Learning</strong>
+  title: <strong>Instruction tuning</strong>
   slides:
   readings:
   logistics:
 
 - date: 10/7
   lecturer:
-  title: >
-    <strong>Transformers</strong>
+  title: <strong>Alignment</strong>
   slides:
   readings:
   logistics:
 
 - date: 10/9
   lecturer:
-  title: >
-    <strong>Transformers (cont.)</strong>
+  title: <strong>Alignment (cont.)</strong>
   slides:
   readings:
   logistics:
 
 - date: 10/14
   lecturer:
-  title: >
-    <strong>Decoding algorithms</strong>
+  title: <strong>Advanced reasoning & Test-time scaling</strong>
   slides:
   readings:
   logistics:
 
 - date: 10/16
   lecturer:
-  title: >
-    <strong>Pretraining & Scaling laws</strong>
+  title: <strong>Evaluation</strong>
   slides:
   readings:
   logistics:
 
 - date: 10/21
   lecturer:
-  title: >
-    <strong>Fine-tuning & Parameter-efficient fine-tuning</strong>
+  title: <strong>Multimodal models</strong>
   slides:
   readings:
   logistics:
 
 - date: 10/23
   lecturer: 
-  title: >
-    <strong>Prompting</strong>
+  title: <strong>Mixture-of-Experts</strong>
   slides:
   readings:
   logistics:
 
 - date: 10/28
   lecturer:
-  title: >
-    <strong>Post-training</strong>
+  title: <strong>Parameter-efficient fine-tuning</strong>
   slides:
   readings:
   logistics:
@@ -153,16 +140,14 @@
 
 - date: 11/11
   lecturer:
-  title: >
-    <strong>Test-time scaling</strong>
+  title: <strong>Distillation, quantization, and pruning</strong>
   slides:
   readings:
   logistics:
 
 - date: 11/13
   lecturer:
-  title: >
-    <strong>Evaluation</strong>
+  title: <strong>Retrieval-augmented generation / Tool-use models</strong>
   slides:
   readings:
   logistics:
@@ -170,7 +155,7 @@
 - date: 11/18
   lecturer:
   title: >
-    <strong>Retrieval-augmented generation</strong>
+    <strong>LLM Agents / Mixture-of-Agents</strong>
   slides:
   readings:
   logistics:
@@ -192,23 +177,21 @@
 - date: 12/2
   lecturer:
   title: >
-    <strong>Multimodal AI</strong>
+    <strong>TBD</strong>
   slides:
   readings:
   logistics:
 
 - date: 12/4
   lecturer:
-  title: >
-    <strong>Diffusion models</strong>
+  title: <strong>Diffusion models</strong>
   slides:
   readings:
   logistics:
 
 - date: 12/9
   lecturer:
-  title: >
-    <strong>Ethics and safety</strong>
+  title: <strong>Ethics and safety</strong>
   slides:
   readings:
   logistics:
