@@ -16,7 +16,8 @@
 
 - date: 9/2
   lecturer:
-  title: <strong>Neural networks</strong>
+  title: >
+    <strong>Neural networks</strong>
   slides: "https://tuvllms.github.io/ai-fall-2025/assets/pdf/lecture_3.pdf"
   readings:
     - <a href="https://web.stanford.edu/~jurafsky/slp3/7.pdf" target="_blank">Jurafsky and Martin, Chapter 7.1-7.4 and 7.6</a>
