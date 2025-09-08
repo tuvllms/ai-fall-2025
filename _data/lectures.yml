@@ -34,10 +34,10 @@
 
 - date: 9/9
   lecturer:
-  title: <strong>Word embeddings</strong>
+  title: <strong>Embeddings</strong>
   slides:
   readings:
-    - <a href="https://web.stanford.edu/~jurafsky/slp3/6.pdf" target="_blank">Jurafsky and Martin, Chapter 6</a>
+    - <a href="https://web.stanford.edu/~jurafsky/slp3/5.pdf" target="_blank">Jurafsky and Martin, Chapter 5</a>
   logistics:
 
 - date: 9/11
