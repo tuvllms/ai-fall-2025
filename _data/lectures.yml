@@ -34,7 +34,7 @@
 
 - date: 9/9
   lecturer:
-  title: <strong>Embeddings</strong>
+  title: <strong>Representation learning: Embeddings</strong>
   slides:
   readings:
     - <a href="https://web.stanford.edu/~jurafsky/slp3/5.pdf" target="_blank">Jurafsky and Martin, Chapter 5</a>
