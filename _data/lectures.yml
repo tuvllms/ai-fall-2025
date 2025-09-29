@@ -86,49 +86,52 @@
 
 - date: 9/30
   lecturer:
-  title: <strong>Decoding strategies</strong>
+  title: <strong>Prompting</strong>
   slides:
   readings:
+    - Brown et al. (2020) <a href="https://arxiv.org/pdf/2005.14165" target="_blank">Language Models are Few-Shot Learners</a>
+    - Wei et al. (2022) <a href="https://arxiv.org/pdf/2201.11903" target="_blank">Chain-of-Thought Prompting Elicits Reasoning in Large Language Models</a>
   logistics:
 
 - date: 10/2
+  lecturer:
+  title: <strong>Decoding strategies</strong>
+  slides:
+  readings:
+    - Holtzman et al. (2019) <a href="https://arxiv.org/pdf/1904.09751" target="_blank">The Curious Case of Neural Text Degeneration</a>
+  logistics:
+
+- date: 10/7
   lecturer:
   title: <strong>Instruction tuning</strong>
   slides:
   readings:
   logistics:
 
-- date: 10/7
+- date: 10/9
   lecturer:
   title: <strong>Alignment</strong>
   slides:
   readings:
   logistics:
 
-- date: 10/9
+- date: 10/14
   lecturer:
   title: <strong>Alignment (cont.)</strong>
   slides:
   readings:
   logistics:
 
-- date: 10/14
+- date: 10/16
   lecturer:
   title: <strong>Advanced reasoning & Test-time scaling</strong>
   slides:
   readings:
   logistics:
 
-- date: 10/16
-  lecturer:
-  title: <strong>Evaluation</strong>
-  slides:
-  readings:
-  logistics:
-
 - date: 10/21
   lecturer:
-  title: <strong>Multimodal models</strong>
+  title: <strong>Evaluation</strong>
   slides:
   readings:
   logistics:
