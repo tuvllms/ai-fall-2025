@@ -87,7 +87,7 @@
 - date: 9/30
   lecturer:
   title: <strong>Prompting</strong>
-  slides:
+  slides: "https://tuvllms.github.io/ai-fall-2025/assets/pdf/lecture_10.pdf"
   readings:
     - Brown et al. (2020) <a href="https://arxiv.org/pdf/2005.14165" target="_blank">Language Models are Few-Shot Learners</a>
     - Wei et al. (2022) <a href="https://arxiv.org/pdf/2201.11903" target="_blank">Chain-of-Thought Prompting Elicits Reasoning in Large Language Models</a>
