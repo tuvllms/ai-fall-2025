@@ -127,9 +127,8 @@
   title: <strong>Alignment (cont.)</strong>
   slides:
   readings:
-    - Ouyang et al. (2022) <a href="https://arxiv.org/pdf/2203.02155" target="_blank">Training language models to follow instructions with human feedback</a>
-    - Bai et al. (2022) <a href="https://arxiv.org/pdf/2204.05862" target="_blank">Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback</a>
-    - "Rafailov et al. (2023) <a href='https://arxiv.org/pdf/2305.18290' target='_blank'>Direct Preference Optimization: Your Language Model is Secretly a Reward Model</a>"
+    - "Shao et al. (2024) <a href='https://arxiv.org/pdf/2402.03300' target='_blank'>DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models</a>"
+    - "ByteDance Seed (2025) <a href='https://arxiv.org/pdf/2503.14476' target='_blank'>DAPO: An Open-Source LLM Reinforcement Learning System at Scale</a>"
   logistics:
 
 - date: 10/16
@@ -137,8 +136,10 @@
   title: <strong>Advanced reasoning & Test-time scaling</strong>
   slides:
   readings:
-    - "Shao et al. (2024) <a href='https://arxiv.org/pdf/2402.03300' target='_blank'>DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models</a>"
-    - "ByteDance Seed (2025) <a href='https://arxiv.org/pdf/2503.14476' target='_blank'>DAPO: An Open-Source LLM Reinforcement Learning System at Scale</a>"
+    - "DeepSeek-AI (2025) <a href='https://arxiv.org/pdf/2501.19393' target='_blank'>DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning</a>"
+    - "Muennighoff et al. (2025) <a href='https://arxiv.org/pdf/2501.19393' target='_blank'>s1: Simple test-time scaling</a>"
+    - "Brown et al. (2024) <a href='https://arxiv.org/pdf/2407.21787' target='_blank'>Large language monkeys: Scaling inference compute with repeated sampling</a>"
+    - "[optional] Geiping et al. (2025) <a href='https://www.arxiv.org/pdf/2502.05171' target='_blank'>Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach</a>"
   logistics:
 
 - date: 10/21
