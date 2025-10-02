@@ -96,7 +96,7 @@
 - date: 10/2
   lecturer:
   title: <strong>Decoding strategies</strong>
-  slides:
+  slides: "https://tuvllms.github.io/ai-fall-2025/assets/pdf/lecture_11.pdf"
   readings:
     - Holtzman et al. (2019) <a href="https://arxiv.org/pdf/1904.09751" target="_blank">The Curious Case of Neural Text Degeneration</a>
   logistics:
