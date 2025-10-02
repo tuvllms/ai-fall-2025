@@ -106,6 +106,10 @@
   title: <strong>Instruction tuning</strong>
   slides:
   readings:
+    - Wei et al. (2021) <a href="https://arxiv.org/pdf/2109.01652" target="_blank">Finetuned Language Models Are Zero-Shot Learners</a>
+    - Chung et al. (2022) <a href="https://arxiv.org/pdf/2210.11416" target="_blank">Scaling Instruction-Finetuned Language Models</a>
+    - "[optional] Sanh et al. (2021) <a href='https://arxiv.org/pdf/2110.08207' target='_blank'>Multitask Prompted Training Enables Zero-Shot Task Generalization</a>"
+    - "[optional] Longpre et al. (2023) <a href='https://arxiv.org/pdf/2301.13688' target='_blank'>The Flan Collection: Designing Data and Methods for Effective Instruction Tuning</a>"
   logistics:
 
 - date: 10/9
@@ -113,6 +117,9 @@
   title: <strong>Alignment</strong>
   slides:
   readings:
+    - Ouyang et al. (2022) <a href="https://arxiv.org/pdf/2203.02155" target="_blank">Training language models to follow instructions with human feedback</a>
+    - Bai et al. (2022) <a href="https://arxiv.org/pdf/2204.05862" target="_blank">Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback</a>
+    - "Rafailov et al. (2023) <a href='https://arxiv.org/pdf/2305.18290' target='_blank'>Direct Preference Optimization: Your Language Model is Secretly a Reward Model</a>"
   logistics:
 
 - date: 10/14
@@ -120,6 +127,9 @@
   title: <strong>Alignment (cont.)</strong>
   slides:
   readings:
+    - Ouyang et al. (2022) <a href="https://arxiv.org/pdf/2203.02155" target="_blank">Training language models to follow instructions with human feedback</a>
+    - Bai et al. (2022) <a href="https://arxiv.org/pdf/2204.05862" target="_blank">Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback</a>
+    - "Rafailov et al. (2023) <a href='https://arxiv.org/pdf/2305.18290' target='_blank'>Direct Preference Optimization: Your Language Model is Secretly a Reward Model</a>"
   logistics:
 
 - date: 10/16
@@ -127,6 +137,8 @@
   title: <strong>Advanced reasoning & Test-time scaling</strong>
   slides:
   readings:
+    - "Shao et al. (2024) <a href='https://arxiv.org/pdf/2402.03300' target='_blank'>DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models</a>"
+    - "ByteDance Seed (2025) <a href='https://arxiv.org/pdf/2503.14476' target='_blank'>DAPO: An Open-Source LLM Reinforcement Learning System at Scale</a>"
   logistics:
 
 - date: 10/21
