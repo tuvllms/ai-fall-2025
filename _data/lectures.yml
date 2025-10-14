@@ -124,15 +124,6 @@
 
 - date: 10/14
   lecturer:
-  title: <strong>Alignment (cont.)</strong>
-  slides:
-  readings:
-    - "Shao et al. (2024) <a href='https://arxiv.org/pdf/2402.03300' target='_blank'>DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models</a>"
-    - "ByteDance Seed (2025) <a href='https://arxiv.org/pdf/2503.14476' target='_blank'>DAPO: An Open-Source LLM Reinforcement Learning System at Scale</a>"
-  logistics:
-
-- date: 10/16
-  lecturer:
   title: <strong>Advanced reasoning & Test-time scaling</strong>
   slides:
   readings:
@@ -140,6 +131,17 @@
     - "Muennighoff et al. (2025) <a href='https://arxiv.org/pdf/2501.19393' target='_blank'>s1: Simple test-time scaling</a>"
     - "Brown et al. (2024) <a href='https://arxiv.org/pdf/2407.21787' target='_blank'>Large language monkeys: Scaling inference compute with repeated sampling</a>"
     - "[optional] Geiping et al. (2025) <a href='https://www.arxiv.org/pdf/2502.05171' target='_blank'>Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach</a>"
+  logistics:
+
+- date: 10/16
+  lecturer:
+  title: >
+    <strong>Advanced reasoning & Test-time scaling (cont'd)</strong>
+  slides: "https://tuvllms.github.io/nlp-spring-2025/assets/pdf/lecture_20.pdf"
+  readings:
+    - "Ye et al. (2025) <a href='https://arxiv.org/pdf/2502.03387' target='_blank'>LIMO: Less is More for Reasoning</a>"
+    - "Yu et al. (2025) <a href='https://arxiv.org/pdf/2504.00810' target='_blank'>Z1: Efficient Test-time Scaling with Code</a>"
+    - "[optional] Xiang et al. (2025) <a href='https://arxiv.org/pdf/2501.04682' target='_blank'>Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought</a>"
   logistics:
 
 - date: 10/21
