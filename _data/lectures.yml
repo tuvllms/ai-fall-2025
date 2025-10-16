@@ -137,7 +137,7 @@
   lecturer:
   title: >
     <strong>Large reasoning models & Test-time scaling (cont'd)</strong>
-  slides:
+  slides: "https://tuvllms.github.io/ai-fall-2025/assets/pdf/lecture_15.pdf"
   readings:
     - "Ye et al. (2025) <a href='https://arxiv.org/pdf/2502.03387' target='_blank'>LIMO: Less is More for Reasoning</a>"
     - "Yu et al. (2025) <a href='https://arxiv.org/pdf/2504.00810' target='_blank'>Z1: Efficient Test-time Scaling with Code</a>"
