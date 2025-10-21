@@ -147,8 +147,10 @@
 - date: 10/21
   lecturer:
   title: <strong>Evaluation</strong>
-  slides:
+  slides: "https://tuvllms.github.io/ai-fall-2025/assets/pdf/lecture_16.pdf"
   readings:
+    - Zheng et al. (2023) <a href="https://arxiv.org/pdf/2306.05685" target="_blank">Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena</a>
+    - "[optional] Vu et al. (2024) <a href='https://arxiv.org/pdf/2407.10817' target='_blank'>Foundational Autoraters: Taming Large Language Models for Better Automatic Evaluation</a>"
   logistics:
 
 - date: 10/23
@@ -156,6 +158,10 @@
   title: <strong>Mixture-of-Experts</strong>
   slides:
   readings:
+    - "Fedus et al. (2021) <a href='https://arxiv.org/pdf/2101.03961' target='_blank'>Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity</a>"
+    - "Shen et al. (2023) <a href='https://arxiv.org/pdf/2305.14705' target='_blank'>Mixture-of-Experts Meets Instruction Tuning: A Winning Combination for Large Language Models</a>"
+    - "[optional] Zoph et al. (2022) <a href='https://arxiv.org/pdf/2202.08906' target='_blank'>ST-MoE: Designing Stable and Transferable Sparse Expert Models</a>"
+    - "[optional] Lepikhin et al. (2020) <a href='https://arxiv.org/pdf/2006.16668' target='_blank'>GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding</a>"
   logistics:
 
 - date: 10/28
