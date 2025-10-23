@@ -167,6 +167,12 @@
 - date: 10/28
   title: No classes (Tu is OOO)
 
+- date: 10/30
+  title: <strong>Efficient attention</strong>
+  slides:
+  readings:
+  logistics:
+  
 - date: 11/4
   lecturer:
   title: <strong>Parameter-efficient fine-tuning</strong>
@@ -175,26 +181,28 @@
   logistics:
 
 - date: 11/6
-  title: <strong>Efficient attention</strong>
-
-- date: 11/11
-  lecturer:
   title: <strong>Distillation, quantization, and pruning</strong>
   slides:
   readings:
   logistics:
 
-- date: 11/13
+- date: 11/11
   lecturer:
   title: <strong>Retrieval-augmented generation / Tool-use models</strong>
   slides:
   readings:
   logistics:
 
+- date: 11/13
+  lecturer:
+  title: <strong>LLM Agents / Mixture-of-Agents</strong>
+  slides:
+  readings:
+  logistics:
+
 - date: 11/18
   lecturer:
-  title: >
-    <strong>LLM Agents / Mixture-of-Agents</strong>
+  title: <strong>TBD</strong>
   slides:
   readings:
   logistics:
