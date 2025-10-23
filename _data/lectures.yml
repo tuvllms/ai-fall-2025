@@ -165,17 +165,17 @@
   logistics:
 
 - date: 10/28
+  title: No classes (Tu is OOO)
+
+- date: 11/4
   lecturer:
   title: <strong>Parameter-efficient fine-tuning</strong>
   slides:
   readings:
   logistics:
 
-- date: 11/4
-  title: No classes (Tu is attending EMNLP)
-
 - date: 11/6
-  title: No classes (Tu is attending EMNLP)
+  title: <strong>Efficient attention</strong>
 
 - date: 11/11
   lecturer:
