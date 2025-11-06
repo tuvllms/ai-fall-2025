@@ -186,8 +186,8 @@
   logistics:
 
 - date: 11/6
-  title: <strong>Distillation, quantization, and pruning</strong>
-  slides:
+  title: <strong>Efficient training and inference</strong>
+  slides: "https://tuvllms.github.io/ai-fall-2025/assets/pdf/lecture_20.pdf"
   readings:
   logistics:
 
