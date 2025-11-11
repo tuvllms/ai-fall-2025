@@ -193,29 +193,28 @@
 
 - date: 11/11
   lecturer:
-  title: <strong>Retrieval-augmented generation / Tool-use models</strong>
+  title: <strong>Retrieval-augmented generation & Tool-use models</strong>
   slides:
   readings:
   logistics:
 
 - date: 11/13
   lecturer:
-  title: <strong>LLM Agents / Mixture-of-Agents</strong>
+  title: <strong>LLM Agents</strong>
   slides:
   readings:
   logistics:
 
 - date: 11/18
   lecturer:
-  title: <strong>TBD</strong>
+  title: <strong>Diffusion models</strong>
   slides:
   readings:
   logistics:
 
 - date: 11/20
   lecturer: 
-  title: >
-    <strong>TBD</strong>
+  title: <strong>Ethics and safety</strong>
   slides:
   readings:
   logistics:
@@ -227,26 +226,12 @@
   title: No classes (Thanksgiving break)
 
 - date: 12/2
-  lecturer:
-  title: >
-    <strong>TBD</strong>
-  slides:
-  readings:
-  logistics:
+  title: No classes
 
 - date: 12/4
-  lecturer:
-  title: <strong>Diffusion models</strong>
-  slides:
-  readings:
-  logistics:
+  title: "Project presentations"
 
 - date: 12/9
-  lecturer:
-  title: <strong>Ethics and safety</strong>
-  slides:
-  readings:
-  logistics:
-
+  title: "Project presentations"
 
 
