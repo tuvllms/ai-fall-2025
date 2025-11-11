@@ -189,6 +189,10 @@
   title: <strong>Efficient training and inference</strong>
   slides: "https://tuvllms.github.io/ai-fall-2025/assets/pdf/lecture_20.pdf"
   readings:
+    - Hinton et al. (2015) <a href="https://arxiv.org/pdf/1503.02531" target="_blank">Distilling the Knowledge in a Neural Network</a>
+    - Ilharco et al. (2022) <a href="https://arxiv.org/pdf/2212.04089" target="_blank">Editing Models with Task Arithmetic</a>
+    - Maarten Grootendorst's blog <a href="https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization" target="_blank">A Visual Guide to Quantization</a>
+    
   logistics:
 
 - date: 11/11
