@@ -198,7 +198,7 @@
 - date: 11/11
   lecturer:
   title: <strong>Retrieval-augmented generation & Tool-use models</strong>
-  slides:
+  slides: "https://tuvllms.github.io/ai-fall-2025/assets/pdf/lecture_21.pdf"
   readings:
   logistics:
 
