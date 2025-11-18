@@ -200,6 +200,10 @@
   title: <strong>Retrieval-augmented generation & Tool-use models</strong>
   slides: "https://tuvllms.github.io/ai-fall-2025/assets/pdf/lecture_21.pdf"
   readings:
+    - "Lewis et al. (2020) <a href='https://arxiv.org/pdf/2005.11401' target='_blank'>Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks</a>"
+    - "Schick et al. (2023) <a href='https://arxiv.org/pdf/2302.04761' target='_blank'>Toolformer: Language Models Can Teach Themselves to Use Tools</a>"
+    - "[optional] Jin et al. (2025) <a href='https://arxiv.org/pdf/2503.09516' target='_blank'>Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning</a>"
+
   logistics:
 
 - date: 11/13
