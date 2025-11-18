@@ -207,6 +207,12 @@
   title: <strong>LLM Agents</strong>
   slides: "https://tuvllms.github.io/ai-fall-2025/assets/pdf/lecture_22.pdf"
   readings:
+    - "Andrew Ng <a href='https://www.deeplearning.ai/the-batch/how-agents-can-improve-llm-performance/' target='_blank'>Agentic Design Patterns Part 1-5</a>"
+    - "[optional] Khattab et al. (2023) <a href='https://arxiv.org/pdf/2310.03714' target='_blank'>DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines</a>"
+    - "[optional] Agrawal et al. (2025) <a href='https://arxiv.org/pdf/2507.19457' target='_blank'>GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning
+</a>"
+    
+    
   logistics:
 
 - date: 11/18
