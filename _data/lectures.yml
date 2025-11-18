@@ -222,7 +222,7 @@
 - date: 11/18
   lecturer:
   title: <strong>Diffusion models</strong>
-  slides:
+  slides: "https://tuvllms.github.io/ai-fall-2025/assets/pdf/lecture_23.pdf"
   readings:
   logistics:
 
